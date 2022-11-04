@@ -1,0 +1,1 @@
+GitHubi kasutatakse koodi hostimiseks. Seda kasutavad näiteks tarkvaraarendajad.
